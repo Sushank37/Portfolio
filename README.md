@@ -12,7 +12,7 @@ Deployment: Vercel / Netlify
 Package Manager: npm or yarn
 ⚙️ Installation
 # Clone the repository
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/Sushank37/portfolio.git
 
 # Navigate into the project directory
 cd portfolio
