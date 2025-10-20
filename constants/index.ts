@@ -166,12 +166,9 @@ export const BACKEND_SKILL = [
 
 ] as const;
 
-export const FULLSTACK_SKILL = [
-] as const;
+export const FULLSTACK_SKILL = [] as const;
 
-export const OTHER_SKILL = [
-
-] as const;
+export const OTHER_SKILL = [] as const;
 
 export const PROJECTS = [
   {
