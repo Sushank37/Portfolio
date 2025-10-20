@@ -9,37 +9,22 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Sushank Singh",
+    "email": "sushanksingh37@gmail.com",
+    "url": "https://github.com/Sushank37"
   },
-  "description": "Welcome to my full stack Next.js 14 space portfolio.",
+  "description": "Portfolio website built with Next.js 14.",
   "keywords": [
     "reactjs",
     "nextjs",
     "vercel",
     "react",
-    "space-portfolio",
     "portfolio",
     "react-icons",
-    "cn",
-    "clsx",
-    "3d-portfolio",
-    "3d-website",
-    "sonner",
     "framer-motion",
     "motion",
     "animation",
-    "heroicons",
-    "next-themes",
-    "postcss",
-    "prettier",
-    "react-dom",
     "tailwindcss",
-    "tailwindcss-animate",
-    "ui/ux",
-    "js",
-    "javascript",
     "typescript",
     "eslint",
     "html",
@@ -48,12 +33,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/space-portfolioit"
+    "url": "https://github.com/Sushank37/Portfolio"
   },
-  "homepage": "https://github.com/sanidhyy/space-portfolio#readme",
+  "homepage": "https://github.com/Sushank37/Portfolio#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/space-portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/Sushank37/Portfolio/issues",
+    "email": "sushanksingh37@gmail.com"
   },
   "funding": [
     {
