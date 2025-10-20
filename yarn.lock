@@ -367,7 +367,7 @@
   resolved "https://registry.npmjs.org/@types/stats.js/-/stats.js-0.17.4.tgz"
   integrity sha512-jIBvWWShCvlBqBNIZt0KAshWpvSjhkwkEu4ZUcASoAvhmrgAUI2t1dXrjSL4xXVLB4FznPrIsX3nKXFl/Dt4vA==
 
-"@types/three@>=0.144.0":
+"@types/three@^0.180.0", "@types/three@>=0.144.0":
   version "0.180.0"
   resolved "https://registry.npmjs.org/@types/three/-/three-0.180.0.tgz"
   integrity sha512-ykFtgCqNnY0IPvDro7h+9ZeLY+qjgUWv+qEvUt84grhenO60Hqd4hScHE7VTB9nOQ/3QM8lkbNE+4vKjEpUxKg==
