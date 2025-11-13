@@ -207,6 +207,11 @@ export const CERTIFICATES = [
     image: "/certificates/Screenshot 2025-11-13 at 1.10.36 PM.png",
     link: "https://www.hackerrank.com/certificates/iframe/3f0295048fb4",
   },
+  {
+    title: "SQL Basics",
+    image: "/certificates/Screenshot 2025-11-13 at 1.24.35 PM.png",
+    link: "https://www.hackerrank.com/certificates/iframe/71019206f55a",
+  },
 ] as const;
 
 export const FOOTER_DATA = [
