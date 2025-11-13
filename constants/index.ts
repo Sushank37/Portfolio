@@ -202,6 +202,11 @@ export const CERTIFICATES = [
     image: "/certificates/Screenshot 2025-10-20 at 11.51.02 AM.png",
     link: "https://www.hackerrank.com/certificates/iframe/a2ee146d8bb8",
   },
+  {
+    title: "JavaScript Intermediate",
+    image: "/certificates/Screenshot 2025-11-13 at 1.10.36 PM.png",
+    link: "https://www.hackerrank.com/certificates/iframe/3f0295048fb4",
+  },
 ] as const;
 
 export const FOOTER_DATA = [
