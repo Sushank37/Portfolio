@@ -178,10 +178,10 @@ export const PROJECTS = [
     link: "https://github.com/Sushank37/Intern-Connect",
   },
   {
-    title: "Adding soon",
+    title: "StallPay",
 
     image: "/projects/project-2.webp",
-    link: "https://tekisky.com/",
+    link: "https://stallpay.netlify.app/",
   },
   {
     title: "Speed Line Auto Parts",
@@ -210,7 +210,7 @@ export const CERTIFICATES = [
   {
     title: "SQL Basics",
     image: "/certificates/Screenshot 2025-11-13 at 1.24.35 PM.png",
-    link: "https://www.hackerrank.com/certificates/iframe/71019206f55a",
+    link: "https://www.hackerrank.com/certificates/iframe/71019206f55az",
   },
 ] as const;
 
