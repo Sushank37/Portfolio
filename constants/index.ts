@@ -180,7 +180,7 @@ export const PROJECTS = [
   {
     title: "StallPay",
 
-    image: "/projects/project-2.webp",
+    image: "/projects/Screenshot 2025-11-14 at 9.42.46 AM.png",
     link: "https://stallpay.netlify.app/",
   },
   {
