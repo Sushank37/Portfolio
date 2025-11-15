@@ -52,8 +52,8 @@ export const SKILL_DATA = [
     height: 80,
   },
   {
-    skill_name: "Next.js 14",
-    image: "next.png",
+    skill_name: "graphql",
+    image: "graphql.png",
     width: 80,
     height: 80,
   },
@@ -70,14 +70,14 @@ export const SKILL_DATA = [
     height: 80,
   },
   {
-    skill_name: "Node.js",
-    image: "node.png",
+    skill_name: "postgresql",
+    image: "postgresql.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "MongoDB",
-    image: "mongodb.png",
+    skill_name: "go",//change the logo
+    image: "go.png",
     width: 40,
     height: 40,
   },
