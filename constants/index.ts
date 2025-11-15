@@ -9,32 +9,32 @@ import {
 
 export const SKILL_DATA = [
   {
-    skill_name: "HTML",
-    image: "html.png",
+    skill_name: "MySQL",
+    image: "mysql.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "CSS",
-    image: "css.png",
+    skill_name: "Docker",
+    image: "docker.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "JavaScript",
-    image: "js.png",
+    skill_name: "Firebase",
+    image: "firebase.png",
     width: 65,
     height: 65,
   },
   {
-    skill_name: "Tailwind CSS",
-    image: "tailwind.png",
+    skill_name: "React Native",
+    image: "reactnative.png",
     width: 80,
     height: 80,
   },
   {
-    skill_name: "React",
-    image: "react.png",
+    skill_name: "React query",
+    image: "reactquery.png",
     width: 80,
     height: 80,
   },
@@ -46,8 +46,8 @@ export const SKILL_DATA = [
   },
 
   {
-    skill_name: "TypeScript",
-    image: "ts.png",
+    skill_name: "Figma",
+    image: "figma.png",
     width: 80,
     height: 80,
   },
@@ -171,11 +171,12 @@ export const FULLSTACK_SKILL = [] as const;
 export const OTHER_SKILL = [] as const;
 
 export const PROJECTS = [
+ 
   {
-    title: "InternConnect",
+    title: "Speed Line Auto Parts",
 
-    image: "/projects/Screenshot 2025-09-12 at 12.16.25 AM.png",
-    link: "https://github.com/Sushank37/Intern-Connect",
+    image: "/projects/project-3.webp",
+    link: "https://speedlineautoparts.netlify.app/",
   },
   {
     title: "StallPay",
@@ -184,10 +185,10 @@ export const PROJECTS = [
     link: "https://stallpay.netlify.app/",
   },
   {
-    title: "Speed Line Auto Parts",
+    title: "Agriconnect",
 
-    image: "/projects/project-3.webp",
-    link: "https://speedlineautoparts.netlify.app/",
+    image: "/projects/Screenshot 2025-11-15 at 10.50.34 AM.png",
+    link: "https://farmroute2home.netlify.app/",
   },
 ] as const;
 
