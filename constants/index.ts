@@ -76,7 +76,7 @@ export const SKILL_DATA = [
     height: 80,
   },
   {
-    skill_name: "go",//change the logo
+    skill_name: "go",
     image: "go.png",
     width: 40,
     height: 40,
