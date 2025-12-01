@@ -5,14 +5,6 @@
 
 ![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/img_main.png "Modern Space Theme Portfolio using Next.js 14 and Three.js")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/451ed0e0-3541-474e-896a-4987e30a7722/deploy-status)](https://spaceportfolio.netlify.app/ "Netlify Status")
 
 <!-- Table of Contents -->
 <details>
