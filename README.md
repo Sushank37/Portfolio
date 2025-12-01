@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <a name="readme-top"></a>
 
 # Modern Space Theme Portfolio using Next.js 14 and Three.js
@@ -26,9 +26,6 @@
 - [Follow Me](#rocket-follow-me)
 - [Learn More](#books-learn-more)
 - [Deploy on Vercel](#page_with_curl-deploy-on-vercel)
-- [Give A Star](#star-give-a-star)
-- [Star History](#star2-star-history)
-- [Give A Star](#star-give-a-star)
 
 </details>
 
