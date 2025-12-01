@@ -38,4 +38,7 @@ export const siteConfig: Metadata = {
     name: "Sushank Singh",
     url: "https://github.com/HuzaifAhmed01",
   },
+  other: {
+    "google-site-verification": "ehsr2GEczGBRHCl0MatdqMWdI_0RZVpbV1ZwcIlrcvo",
+  },
 } as const;
